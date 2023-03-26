@@ -1,7 +1,7 @@
 km = input("Kilometre Değerini Giriniz = ")
 bir_mil = 1.609344 #km
 
-mil_cevirme = (float(km)/bir_mil) #ya da inputta type casting yapabilirsin
+mil_cevirme = (float(km)/bir_mil)
 #km = float(input("Kilometre Değerini Giriniz = "))
 
 print(mil_cevirme)
