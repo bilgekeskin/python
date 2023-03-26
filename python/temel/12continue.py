@@ -1,5 +1,3 @@
-#continue = döngüyü başa döndürmek
-
 i = 0
 
 while (i < 10):
