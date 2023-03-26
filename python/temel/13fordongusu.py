@@ -6,15 +6,3 @@ for eleman in a:
 
 for karakter in b:
     print(karakter)
-
-
-""""
-
-DERSTEKİ NOTLAR
-
-İTERASYONLAR: 
- -Yineleme anlamındadır.Nesneler üzerinde adım adım ilerlemeye olanak sağlar.
- -İteratif yaklaşım 'for' deyimi ile kurgulanır
-
-
-"""
